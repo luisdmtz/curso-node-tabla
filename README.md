@@ -1,5 +1,5 @@
 # Notas
-Este es mi primero programa
+Este es mi primer programa
 
 ```
 Opciones:
